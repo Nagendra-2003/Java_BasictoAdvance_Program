@@ -1,0 +1,2 @@
+In Java_BasictoAdvance_Program repository there are multiple files related to Java topics ,and these files have multiple type of questions from each topic . These questions are basic to advance level questions where i built my logic bulding,and problem solving skills.
+In this repository , Questions are related to Input and Output function , Loop related questions, 1-D Array / 2-D Array questions,Pattern based questions and others question related to topics are present
