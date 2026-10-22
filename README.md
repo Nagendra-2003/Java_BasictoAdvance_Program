@@ -112,16 +112,16 @@ java YourClassName
 
 ## 📈 Learning Roadmap
 
-- [x] Input and Output
-- [x] Loops and Pattern Printing
-- [x] One-Dimensional Arrays
-- [x] Two-Dimensional Arrays
-- [ ] Conditional Statements and More Basic Problems
-- [ ] String Manipulation
-- [ ] Object-Oriented Programming (OOP)
-- [ ] Exception Handling
-- [ ] Collections Framework
-- [ ] Multithreading
+ Input and Output
+ Loops and Pattern Printing
+ One-Dimensional Arrays
+ Two-Dimensional Arrays
+ Conditional Statements and More Basic Problems
+ String Manipulation
+ Object-Oriented Programming (OOP)
+ Exception Handling
+ Collections Framework
+ Multithreading
 
 *This roadmap will be updated as I complete and upload more programs.*
 
